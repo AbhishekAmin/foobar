@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "foobarc0c1b768": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
